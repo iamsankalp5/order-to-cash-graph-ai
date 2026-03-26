@@ -38,8 +38,6 @@ Instead of manually searching across multiple tables, users can simply ask:
 ## 📸 Screenshots
 
 ## 📊 Graph Visualizations
-
-<img src="screenshots/A.png" width="45%"/>
 <img src="screenshots/B.png" width="45%"/>
 
 ### 🔹 Query Interface
