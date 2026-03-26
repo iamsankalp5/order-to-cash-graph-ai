@@ -38,10 +38,14 @@ Instead of manually searching across multiple tables, users can simply ask:
 ## 📸 Screenshots
 
 ### 🔹 Graph Visualization
-![Graph](screenshots/graph.png)
+## 📊 Graph Visualizations
+
+![Graph 1](screenshots/A.png)
+
+![Graph 2](screenshots/B.png)
 
 ### 🔹 Query Interface
-![Query](screenshots/query.png)
+![Chat with Graph](C.png)
 
 ---
 
