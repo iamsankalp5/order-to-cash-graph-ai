@@ -37,7 +37,6 @@ Instead of manually searching across multiple tables, users can simply ask:
 
 ## 📸 Screenshots
 
-### 🔹 Graph Visualization
 ## 📊 Graph Visualizations
 
 ![Graph 1](screenshots/A.png)
