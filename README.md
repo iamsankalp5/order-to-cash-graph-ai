@@ -39,9 +39,8 @@ Instead of manually searching across multiple tables, users can simply ask:
 
 ## 📊 Graph Visualizations
 
-![Graph 1](screenshots/A.png)
-
-![Graph 2](screenshots/B.png)
+<img src="screenshots/A.png" width="45%"/>
+<img src="screenshots/B.png" width="45%"/>
 
 ### 🔹 Query Interface
 ![Chat with Graph](C.png)
