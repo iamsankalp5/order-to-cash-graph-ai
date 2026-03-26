@@ -3,6 +3,8 @@
 A Graph-based AI system to analyze Order-to-Cash (O2C) workflow using natural language queries with interactive visualization.
 
 ---
+## 🚀 Live Demo
+👉 https://order-to-cash-graph-ai-jr8e9ihnkchcturqfk3uyo.streamlit.app
 
 ## 🚀 Project Overview
 
@@ -38,7 +40,7 @@ Instead of manually searching across multiple tables, users can simply ask:
 ## 📸 Screenshots
 
 ## 📊 Graph Visualizations
-<img src="screenshots/B.png" width="45%"/>
+![Graph 2](B.png)
 
 ### 🔹 Query Interface
 ![Chat with Graph](C.png)
