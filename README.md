@@ -47,5 +47,12 @@ Instead of manually searching across multiple tables, users can simply ask:
 
 ---
 
-## 🗂️ Project Structure
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run order-to-cash-graph-ai.py
+
+👨‍💻 Author
+Sankalp Shamanewadi
 
